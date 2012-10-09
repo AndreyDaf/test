@@ -1,6 +1,5 @@
 <h2>Index.php</h2>
-<div>Content</div>
-
+<div>First page</div>
 
 <?php
 
