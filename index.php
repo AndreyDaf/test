@@ -1,6 +1,5 @@
 <?php
 
-//index
-//comment
+echo "Page Index";
 
 ?>
