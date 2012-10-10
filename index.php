@@ -1,0 +1,6 @@
+<?php
+
+//index
+//comment
+
+?>
