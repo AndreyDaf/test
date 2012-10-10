@@ -1,5 +1,5 @@
 <?php
 
-//new file
+echo "new page";
 
 ?>
