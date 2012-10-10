@@ -1,6 +1,0 @@
-<?php
-
-//add file
-//fsdf
-
-?>
