@@ -1,5 +1,5 @@
 <?php
-//22
+//11
 echo "new page";
-//new2
+//new
 ?>
